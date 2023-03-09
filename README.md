@@ -6,6 +6,8 @@ https://www.seeedstudio.com/blog/2020/06/23/setup-a-raspberry-pi-web-server-and-
 
 `python3 -m pip install flask`
 # To Run
-``` export FLASK_APP=server.py
+``` 
+export FLASK_APP=server.py
 export FLASK_ENV=development
-flask run ```
+flask run 
+```
